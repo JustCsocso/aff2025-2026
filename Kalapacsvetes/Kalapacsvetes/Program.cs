@@ -35,7 +35,59 @@ foreach (Sportolo e in sportolok)
     if (e.datum.Substring(0,4) ==input)
     {
         darab++;
+        
+    }
+    
+}
+//Console.WriteLine(darab);
+
+if (darab != 0)
+{
+    Console.WriteLine("{0}", darab);
+    foreach (Sportolo e in sportolok)
+    {
+        if (e.datum.Substring(0, 4) == input)
+        {
+            Console.WriteLine(e.sportolo);
+
+        }
+
+    }
+}
+else
+{
+    Console.WriteLine("Nincs ilyen");
+}
+
+Console.WriteLine("7.feladat: Statisztika");
+
+Dictionary<string, int> orszagok = new Dictionary<string, int>();
+foreach(Sportolo k in sportolok)
+{
+    if (orszagok.ContainsKey(k.orszagkod))
+    {
+        orszagok[k.orszagkod]++;
+    }
+    else
+    {
+        orszagok.Add(k.orszagkod, 1);
     }
 }
 
+foreach(KeyValuePair<string, int> e in orszagok)
+{
+    Console.WriteLine("{0}-{1}",e.Key,e.Value);
+}
 
+Console.WriteLine("8.feladat");
+
+StreamWriter magyar = new StreamWriter("magyarok.txt");
+
+for (int i = 0; i <= sportolok.Count; i++)
+{
+    if (sportolok[i].orszagkod == "HUN")
+    {
+        magyar.WriteLine(sportolok[i]);
+    }
+}
+magyar.Close();

@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aff2025-2026\\Kalapacsvetes\\",
+  "WorkspaceRootPath": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Kalapacsvetes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1DE490AC-B82C-4D85-A7C1-84BD2392206D}|Kalapacsvetes\\Kalapacsvetes.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aff2025-2026\\kalapacsvetes\\kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DE490AC-B82C-4D85-A7C1-84BD2392206D}|Kalapacsvetes\\Kalapacsvetes.csproj|c:\\users\\pcsongi\\documents\\pcsongi\\aff2025-2026\\kalapacsvetes\\kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE490AC-B82C-4D85-A7C1-84BD2392206D}|Kalapacsvetes\\Kalapacsvetes.csproj|solutionrelative:kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1DE490AC-B82C-4D85-A7C1-84BD2392206D}|Kalapacsvetes\\Kalapacsvetes.csproj|d:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aff2025-2026\\kalapacsvetes\\kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1DE490AC-B82C-4D85-A7C1-84BD2392206D}|Kalapacsvetes\\Kalapacsvetes.csproj|c:\\users\\pcsongi\\documents\\pcsongi\\aff2025-2026\\kalapacsvetes\\kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1DE490AC-B82C-4D85-A7C1-84BD2392206D}|Kalapacsvetes\\Kalapacsvetes.csproj|solutionrelative:kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Sportolo.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
+              "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
               "RelativeDocumentMoniker": "Kalapacsvetes\\Sportolo.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
               "RelativeToolTip": "Kalapacsvetes\\Sportolo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,11 +37,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
               "RelativeDocumentMoniker": "Kalapacsvetes\\Program.cs",
-              "ToolTip": "D:\\munkak\u00F6nyvt\u00E1r\\pintercsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
               "RelativeToolTip": "Kalapacsvetes\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFkAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T06:24:12.834Z",
               "EditorCaption": ""
