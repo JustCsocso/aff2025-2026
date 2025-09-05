@@ -1,0 +1,55 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC2DFEB-601F-4CD5-B676-2D383CF146FC}|autoapp\\autoapp.csproj|c:\\users\\pcsongi\\documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC2DFEB-601F-4CD5-B676-2D383CF146FC}|autoapp\\autoapp.csproj|solutionrelative:autoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDC2DFEB-601F-4CD5-B676-2D383CF146FC}|autoapp\\autoapp.csproj|c:\\users\\pcsongi\\documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDC2DFEB-601F-4CD5-B676-2D383CF146FC}|autoapp\\autoapp.csproj|solutionrelative:autoapp\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Auto.cs",
+              "RelativeDocumentMoniker": "autoapp\\Auto.cs",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Auto.cs",
+              "RelativeToolTip": "autoapp\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:42:07.212Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Program.cs",
+              "RelativeDocumentMoniker": "autoapp\\Program.cs",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Program.cs",
+              "RelativeToolTip": "autoapp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAASwB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T10:41:42.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
