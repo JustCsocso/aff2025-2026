@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Fuggohid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C81D5D-1AC7-4F72-A709-392F5484294B}|Fuggohid\\Fuggohid.csproj|c:\\users\\pcsongi\\documents\\pcsongi\\aff2025-2026\\fuggohid\\fuggohid\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C81D5D-1AC7-4F72-A709-392F5484294B}|Fuggohid\\Fuggohid.csproj|solutionrelative:fuggohid\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C81D5D-1AC7-4F72-A709-392F5484294B}|Fuggohid\\Fuggohid.csproj|c:\\users\\pcsongi\\documents\\pcsongi\\aff2025-2026\\fuggohid\\fuggohid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C81D5D-1AC7-4F72-A709-392F5484294B}|Fuggohid\\Fuggohid.csproj|solutionrelative:fuggohid\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C81D5D-1AC7-4F72-A709-392F5484294B}|Fuggohid\\Fuggohid.csproj|c:\\users\\pcsongi\\documents\\pcsongi\\aff2025-2026\\fuggohid\\fuggohid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{20C81D5D-1AC7-4F72-A709-392F5484294B}|Fuggohid\\Fuggohid.csproj|solutionrelative:fuggohid\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "fuggohid.cs",
+              "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Fuggohid\\Fuggohid\\fuggohid.cs",
+              "RelativeDocumentMoniker": "Fuggohid\\fuggohid.cs",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Fuggohid\\Fuggohid\\fuggohid.cs",
+              "RelativeToolTip": "Fuggohid\\fuggohid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:32:10.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Fuggohid\\Fuggohid\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Fuggohid\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Fuggohid\\Fuggohid\\MainWindow.xaml",
+              "RelativeToolTip": "Fuggohid\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-09T07:31:24.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Fuggohid\\Fuggohid\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Fuggohid\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\Fuggohid\\Fuggohid\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Fuggohid\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-09T07:31:23.918Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

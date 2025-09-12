@@ -1,0 +1,27 @@
+﻿<Window x:Class="Fuggohidak.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fuggohidak"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Loaded="Grid_Loaded">
+        <ListBox x:Name="nevek" Margin="10,31,400,169" SelectionChanged="nevek_SelectionChanged" />
+        <RadioButton x:Name="elott" Content="2000 előtt" HorizontalAlignment="Left" Margin="52,315,0,0" VerticalAlignment="Top" Checked="elott_Checked"/>
+        <RadioButton x:Name="utan" Content="2000-ben vagy után" HorizontalAlignment="Left" Margin="52,359,0,0" VerticalAlignment="Top" Checked="utan_Checked"/>
+        <TextBlock x:Name="kiir" HorizontalAlignment="Left" Margin="52,379,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="30" Width="92"/>
+        <Label x:Name="label" Content="Hely" HorizontalAlignment="Left" Margin="501,89,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1" Content="Ország" HorizontalAlignment="Left" Margin="501,148,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="Hossz" HorizontalAlignment="Left" Margin="501,198,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="Év" HorizontalAlignment="Left" Margin="501,239,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="helye" HorizontalAlignment="Left" Margin="585,94,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="orszagok" HorizontalAlignment="Left" Margin="585,148,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="hossza" HorizontalAlignment="Left" Margin="585,203,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="eve" HorizontalAlignment="Left" Margin="585,244,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button x:Name="button" Content="keresés" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top" Height="26" Width="48" Click="button_Click"/>
+        <Button x:Name="button1" Content="kilépés" HorizontalAlignment="Left" Margin="63,0,0,0" VerticalAlignment="Top" Height="26" Width="55"/>
+        <Button x:Name="button1_Copy" Content="kilépés" HorizontalAlignment="Left" Margin="555,353,0,0" VerticalAlignment="Top" Height="26" Width="55" Click="button1_Copy_Click"/>
+
+    </Grid>
+</Window>

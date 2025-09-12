@@ -28,10 +28,11 @@
               "RelativeDocumentMoniker": "autoapp\\Auto.cs",
               "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Auto.cs",
               "RelativeToolTip": "autoapp\\Auto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T10:42:07.212Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -39,9 +40,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Program.cs",
               "RelativeDocumentMoniker": "autoapp\\Program.cs",
-              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Program.cs*",
-              "RelativeToolTip": "autoapp\\Program.cs*",
-              "ViewState": "AgIAAAMAAAAAAAAAAAASwBkAAAAZAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\pcsongi\\Documents\\pcsongi\\aff2025-2026\\autoapp\\autoapp\\Program.cs",
+              "RelativeToolTip": "autoapp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T10:41:42.012Z",
               "EditorCaption": ""
