@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -35,14 +36,7 @@ namespace Fuggohidak
         List<string> orszaglist=new List<string>();
         private void comboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            foreach (Fuggohid ad in adatok)
-            {
-                if (!orszaglist.Contains(ad.orszag))
-                {
-                    orszaglist.Add(ad.orszag);
-                }
-            }
-            kombo.ItemsSource = orszaglist;
+           
         }
         
         
@@ -53,12 +47,44 @@ namespace Fuggohidak
             {
                 adatok.Add(new Fuggohid(er));
             }
-            
+            foreach (Fuggohid ad in adatok)
+            {
+                if (!orszaglist.Contains(ad.orszag))
+                {
+                    orszaglist.Add(ad.orszag);
+                }
+            }
+            kombo.ItemsSource = orszaglist;
+
         }
 
         private void listBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
             
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            szep.Items = "";
+            foreach(Fuggohid ad in adatok)
+            {
+                if(ad.orszag == kombo.SelectedItem)
+                {
+                    if (hossz.IsChecked == true)
+                    {
+                        if (ad.hossz > 1000)
+                        {
+                            szep.Items += ad.nev + "\n";
+                        }
+                    }
+                    else
+                    {
+                        szep.Items += ad.nev + "\n";
+                    }
+                }
+            
+            }
+
         }
     }
 }
